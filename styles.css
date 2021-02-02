@@ -1,0 +1,13 @@
+body {
+    background: url("zoo__wallpaper.jpg") no-repeat center fixed;
+    background-size: cover;
+    max-width: 1750px;
+}
+
+.bulldog__img img {
+    max-width: 60px;
+    max-height: 60px;
+    position: relative;
+    left: 600px;
+    top: 500px;
+}
